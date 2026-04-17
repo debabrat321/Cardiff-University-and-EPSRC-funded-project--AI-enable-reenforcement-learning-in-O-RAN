@@ -1,0 +1,7 @@
+LR no DF
+R2 Score: 0.01985335690915857
+Mean Squared Error: 767.3713829720372
+Mean Absolute Error: 21.205674107760057
+Mean Squared Percentage Error: 2.095476470510419
+rmse: 27.701468967764818
+
